@@ -1,20 +1,5 @@
 # **Data-Science-Portfolio-in-Python**
 
-This repository contains machine learning and deep learning repositories.
+This repository contains data science and machine learning projects completed by me for learning and demonstration purposes.
 
 
---------------------------------------------------------------------------------
-
-# **[Machine Learning with Python](https://github.com/pb111/Machine-Learning-with-Python)**
-
---------------------------------------------------------------------------------
-
-# **[Data Analysis and Visualization with Python](https://github.com/pb111/Data-Analysis-and-Visualization-with-Python)**
-
---------------------------------------------------------------------------------
-
-# **[Deep Learning with Keras](https://github.com/pb111/Deep-Learning-with-Keras)**
-
---------------------------------------------------------------------------------
-
-# **[Deep Learning with PyTorch](https://github.com/pb111/Deep-Learning-with-PyTorch)**
