@@ -13,3 +13,6 @@ This repository contains data science and machine learning projects completed by
 - [Dealing with Imbalanced Classes Problem](https://github.com/pb111/Data-Science-Portfolio-in-Python/blob/master/Dealing_with_imbalanced_classes_problem.ipynb)
 
 
+- [XGBoost Classification Project](https://github.com/pb111/Data-Science-Portfolio-in-Python/blob/master/XGBoost_Classification_Project.ipynb)
+
+
