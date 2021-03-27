@@ -19,3 +19,6 @@ This repository contains data science and machine learning projects completed by
 - [LightGBM Classification Project](https://github.com/pb111/Data-Science-Portfolio-in-Python/blob/master/LightGBM_Classification_Project.ipynb)
 
 
+- [Stacked Classifier Project](https://github.com/pb111/Data-Science-Portfolio-in-Python/blob/master/Stacked_Classifier_Project.ipynb)
+
+
