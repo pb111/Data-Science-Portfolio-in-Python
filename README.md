@@ -4,7 +4,7 @@ This repository contains data science and machine learning projects completed by
 
 
 
-- [Rainfall in Australia](https://github.com/pb111/Data-Science-Portfolio-in-Python/blob/master/Rainfall_in_Australia.ipynb)
+- [Rainfall in Australia](https://github.com/pb111/Data-Science-Portfolio-in-Python/blob/master/Rainfall_in_Australia.ipynb) In this project, I trained a Logistic Regression binary classifier in Python to predict whether or not it will rain tomorrow in Australia. I have also demonstrated Recursive Feature Elimination with Cross Validation (RFECV), k-fold  Cross-Validation and Hyperparameter Optimization using GridSearch CV in this project.
 
 
 - [Credit Card Fraud Detection](https://github.com/pb111/Data-Science-Portfolio-in-Python/blob/master/Credit_Card_Fraud_Detection.ipynb)
