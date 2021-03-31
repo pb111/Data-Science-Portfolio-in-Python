@@ -10,7 +10,7 @@ This repository contains data science and machine learning projects completed by
 - [Credit Card Fraud Detection](https://github.com/pb111/Data-Science-Portfolio-in-Python/blob/master/Credit_Card_Fraud_Detection.ipynb) : Credit-card fraud is when someone uses our credit card or credit account to make a purchase we didn't authorize. Credit-card companies should take necessary actions to prevent fraudulent credit-card transactions. In this project, we develop an ML model to detect credit-card fraud.
 
 
-- [Dealing with Imbalanced Classes Problem](https://github.com/pb111/Data-Science-Portfolio-in-Python/blob/master/Dealing_with_imbalanced_classes_problem.ipynb)
+- [Dealing with Imbalanced Classes Problem](https://github.com/pb111/Data-Science-Portfolio-in-Python/blob/master/Dealing_with_imbalanced_classes_problem.ipynb) : In this project, I discuss imbalanced classes problem, which is one of the major problems in machine learning. I discuss random over-sampling and random under-sampling, under-sampling tomek links and cluster-centroids and over-sampling SMOTE in this project.
 
 
 - [XGBoost Classification Project](https://github.com/pb111/Data-Science-Portfolio-in-Python/blob/master/XGBoost_Classification_Project.ipynb): **XGBoost** stands for **Extreme Gradient Boosting**. In this project, we will discuss XGBoost and develop a simple baseline XGBoost model. I have demonstrated k-fold Cross Validation and Feature Importance with XGBoost.
